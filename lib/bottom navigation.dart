@@ -77,7 +77,6 @@ class _BottomNavigatorScreenState extends State<BottomNavigatorScreen> {
               });
             },
             children: <Widget>[
-              // Add your pages here
               HomeScreen(),
             ],
           )),
